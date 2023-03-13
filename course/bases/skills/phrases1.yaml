@@ -31,7 +31,7 @@ Phrases:
   - Phrase: Coma te sònan?
     Translation: Comment tu t'apelles?
 
-  - Phrase: Bon 'près-miejorn!
+  - Phrase: Bon \'près-miejorn!
     Translation: Bon après-midi!
 
   - Phrase: Bona nuèit, Joan!
@@ -45,7 +45,7 @@ Mini-dictionary:
     - Cécile: Cecilia
     - m'apelle:
       - me sòna
-      - me 'pèla
+      - me \'pèla
     - Jean: Joan
     - comment: coma
     - ça: quo
@@ -58,7 +58,7 @@ Mini-dictionary:
     - tu: tu
     - t'apelles:
       - te sònas
-      - te 'pèlas
+      - te \'pèlas
     - bon: bon
     - bonne: bona
     - qu'est ce qu':
@@ -81,7 +81,7 @@ Mini-dictionary:
     - bona: bonne
     - bonjorn: bonjour
     - sònan: elles/ils apellent
-    - 'pèlan: elles/ils apellent
+    - \'pèlan: elles/ils apellent
     - de que: qu'est ce que
     - de: de
     - que: quoi
@@ -89,7 +89,7 @@ Mini-dictionary:
     - me: me
     - te: te
     - se: se
-    - 'près-miejorn: après-midi
+    - \'près-miejorn: après-midi
     - nuèit: nuit
     - sèi: je suis
     - Cecilia: Cécile (nom)
