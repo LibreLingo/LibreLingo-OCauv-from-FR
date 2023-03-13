@@ -1,0 +1,114 @@
+Skill:
+  Name: 3-Genre bases
+  Id: 3
+  Thumbnails:
+    - cow1
+    - duck3
+    - cat3
+
+New words:
+  - Word: la china
+    Translation: la chienne
+    Images:
+      - dog1
+      - dog2
+      - dog3
+
+  - Word: la chata
+    Translation: la chatte
+    Images:
+      - cat1
+      - cat2
+      - cat3
+
+  - Word: una orsa
+    Translation: une ourse
+    Images:
+      - bear1
+      - bear2
+      - bear1
+
+  - Word: le buòu
+    Translation: le boeuf
+    Images:
+      - cow1
+      - cow2
+      - cow3
+
+  - Word: la cana
+    Translation: la cane
+    Images:
+      - duck1
+      - duck2
+      - duck3
+
+  - Word: un chavau
+    Translation: un cheval
+    Images:
+      - horse1
+      - horse2
+      - horse3
+
+Phrases:
+  - Phrase: La genta china
+    Translation: La jolie chienne
+
+  - Phrase: Una brava chata e un mauvas chin
+    Translation: Une gentille chatte et un mauvais chien
+
+  - Phrase: Una mauvasa cana e le brave buòu
+    Translation: Une mauvaise cane et le bon boeuf
+
+Mini-dictionary:
+  Occitan:
+    - chin: chien
+    - china: chienne
+    - chata: chatte
+    - orsa: ourse
+    - buòu: boeuf
+    - cana: cane
+    - chavau: cheval
+    - le: le
+    - la: la
+    - un: un
+    - una: une
+    - e: et
+    - quo-es: c'est
+    - genta: jolie
+    - brava:
+      - gentille
+      - bonne
+      - grande
+    - brave:
+      - gentil
+      - bon
+      - grand
+    - mauvas: mauvais
+    - mauvasa: mauvaise
+
+
+  French:
+    - le: le
+    - la: la
+    - c'est: quo-es
+    - un: un
+    - une:
+      - una
+      - 'na
+    - Bernard: Bernard
+    - est:
+      - z-es
+      - es
+    - et: e
+    - chien: chin
+    - chienne: china
+    - chatte: chata
+    - ourse: orsa
+    - boeuf: buòu
+    - cane: cana
+    - cheval: chavau
+    - jolie: genta
+    - gentille: brava
+    - bon: brave
+    - mauvais: mauvas
+    - mauvaise: mauvasa

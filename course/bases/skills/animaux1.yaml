@@ -1,5 +1,5 @@
 Skill:
-  Name: Animaux
+  Name: 2-Animaux
   Id: 2
   Thumbnails:
     - dog1
@@ -117,7 +117,7 @@ Mini-dictionary:
     - una: une
     - Bernard: Bernard
     - e: et
-    - quo-es: c\'est
+    - quo-es: c'est
     - z-es: il/elle est
 
 
@@ -128,7 +128,7 @@ Mini-dictionary:
     - un: un
     - une:
       - una
-      - \'na
+      - 'na
     - Bernard: Bernard
     - est:
       - z-es

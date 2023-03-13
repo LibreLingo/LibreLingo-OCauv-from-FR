@@ -1,4 +1,10 @@
 # Animaux
 
-Dans ce cours d'introduction, vous apprendrez les noms communs des animaux en
-Occitan auvergnat, ainsi que quelques phrases simples.
+Un peu de vocabulaire simple d'occitan auvergnat sur le thème des animaux, pour commencer...
+
+### Quelques articles en occitan auvergnat
+
+- **un**: un
+- **una**: une
+- **le** (peut être **lo** dans certains endroits): le
+- **la**: la
